@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+.icon {
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.edit:hover {
+    color: dodgerblue;
+}
+
+.delete:hover {
+    color: red;
+}

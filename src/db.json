@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "email": "mis-adm.sourernds.hype@mail.ru",
+      "password": "$2a$10$m8.vfPjt2iZ2LzQYB8dac.tQq8RKrEIV6AgfCzC8/bmNxyRlkPjbe",
+      "id": 5
+    },
+    {
+      "email": "roma@mail.ru",
+      "password": "$2a$10$L.89207MCaDZdPiJaaWIV.ebN7dCX5T/jF9L5OtdWVWwLdOoyHGhO",
+      "id": 6
+    },
+    {
+      "email": "mis-adm.sounds.hype@mail.ru",
+      "password": "$2a$10$o600beDGicGJ6hc5vz64o.mzpLFoiR3D.AqICzkEkJhgrFnpP62CW",
+      "id": 7
+    },
+    {
+      "email": "roman22@mail.ru",
+      "password": "$2a$10$zjNlfVU1yykvbuGkaW1JkuaddJManHInpjFzYpSBNWluBw4HZj/o6",
+      "id": 8
+    }
+  ]
+}
